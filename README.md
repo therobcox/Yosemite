@@ -1,7 +1,7 @@
 # Yosemite
 Dynamic Background for gnome desktop
 
-![yosemite2](https://github.com/user-attachments/assets/5ac04391-a09a-4086-9d36-bec6ea1f85aa)
+![Evening](https://github.com/user-attachments/assets/084c1a06-b24e-4f1a-ab07-d75d7c67e275)
 
 
 # Description
@@ -13,7 +13,7 @@ The Dynamic Background can be installed directly into the system backgrounds fol
 
 Then you can enable using the gnome Settings -> Backgrounds section of your distribution. 
 
-<img width="1920" height="1080" alt="yosemite5" src="https://github.com/user-attachments/assets/097d7fb4-b884-4a19-ae5d-dbe6d46d7ad7" />
+![Twilight](https://github.com/user-attachments/assets/d8fd7b30-1a69-40f8-a026-fbaac1a3c7cb)
 
 
 # Installation
@@ -45,6 +45,8 @@ Copy yosemite-wallpapers.xml to gnome-background-properties and change permissio
 
  
 To set new wallpaper, use Settings -> Background or right-click desktop "Change Background..."
+
+<img width="1920" height="1080" alt="Screenshot" src="https://github.com/user-attachments/assets/fd7a9b48-89de-49e1-a6fd-018ac6d7d9b0" />
 
 
 # Troubleshooting:
